@@ -1,0 +1,21 @@
+.image {
+  position: relative;
+  left: 850px;
+  top: 100px;
+}
+.me {
+  margin-top: -220px;
+  margin-left: 100px;
+}
+.hello {
+  font-weight: bold;
+  font-size: 40px;
+  color: rgb(243, 97, 201);
+}
+span {
+  color: rgb(243, 97, 201);
+  font-weight: bold;
+}
+.me {
+  font-size: 20px;
+}

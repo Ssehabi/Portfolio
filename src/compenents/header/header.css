@@ -1,0 +1,19 @@
+.logo {
+  margin-top: -40px;
+  margin-left: 60px;
+}
+.links {
+  margin-top: -125px;
+  margin-left: 500px;
+}
+.links a {
+  text-decoration: none;
+  margin: 100px;
+}
+a {
+  color: black;
+}
+a:hover {
+  color: rgb(243, 97, 201);
+  font-weight: bold;
+}
